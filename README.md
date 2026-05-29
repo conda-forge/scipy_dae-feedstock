@@ -149,6 +149,3 @@ Feedstock Maintainers
 
 * [@moorepants](https://github.com/moorepants/)
 
-
-<!-- dummy commit to enable rerendering -->
-

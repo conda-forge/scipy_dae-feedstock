@@ -1,6 +1,6 @@
 {% set name = "scipy_dae" %}
-{% set version = "0.1.0" %}
-{% set sha256 = "afc3ce49e93bb44d5ec1b53c3d200092dc647e03c9790a248652a71137250ed8" %}
+{% set version = "0.1.1" %}
+{% set sha256 = "f3f4941b69d3a51e8d4265e864535ff768aa9f2a2b17ba96de0814facde73e98" %}
 
 package:
   name: {{ name|lower }}
